@@ -54,7 +54,7 @@
       "KC_SPC",
       "KC_RGUI",
       "MO(1)",
-      "MO(3)"
+      "MO(2)"
     ],
     [
       "KC_GRV",
@@ -105,7 +105,7 @@
       "KC_SPC",
       "KC_SPC",
       "KC_RGUI",
-      "MO(3)",
+      "KC_NO",
       "KC_NO"
     ],
     [
