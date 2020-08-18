@@ -105,7 +105,7 @@
       "KC_SPC",
       "KC_NO",
       "KC_SPC",
-      "KC_RGUI",
+      "KC_NO",
       "KC_NO"
     ],
     [
@@ -163,5 +163,5 @@
   ],
   "layout": "LAYOUT",
   "notes": "",
-  "version": 1
+  "version": 1.1
 }
